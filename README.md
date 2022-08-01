@@ -19,3 +19,5 @@
 ## ![image](https://user-images.githubusercontent.com/54635552/182182159-3cddb221-f902-4343-a6ba-a0056d929f23.png)
  
 - git branch -d [브랜치이름] : 해당 브랜치 삭제하기
+
+ - git pull : 원격 저장소의 데이터를 로컬 저장소에 가져와 병합하기
