@@ -18,4 +18,4 @@
 ## ![image](https://user-images.githubusercontent.com/54635552/182181842-fe78a296-afa1-44de-a842-dd00427ef963.png)
 ## ![image](https://user-images.githubusercontent.com/54635552/182182159-3cddb221-f902-4343-a6ba-a0056d929f23.png)
  
-
+- git branch -d [브랜치이름] : 해당 브랜치 삭제하기
