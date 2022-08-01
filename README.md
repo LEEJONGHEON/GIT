@@ -15,4 +15,5 @@
 - 병합할 대상 브랜치로 이동한뒤에 해당 브랜치에서 git merge [병합할 브랜치이름] 입력시 
 ## ![image](https://user-images.githubusercontent.com/54635552/182181826-3c4d188e-4fd8-498a-bb68-9da3d49088ad.png)
 ## ![image](https://user-images.githubusercontent.com/54635552/182181842-fe78a296-afa1-44de-a842-dd00427ef963.png)
+## ![image](https://user-images.githubusercontent.com/54635552/182182159-3cddb221-f902-4343-a6ba-a0056d929f23.png)
 
