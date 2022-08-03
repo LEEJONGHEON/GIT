@@ -23,3 +23,9 @@
 - git pull : 원격 저장소의 데이터를 로컬 저장소에 가져와 병합하기
 - git fetch : 원격 저장소의 내용만 확인하고, 로컬 데이터와 병합하고싶지않은경우에 사용
 - git push : 로컬 저장소의 데이터를 원격 저장소로 넣을떄
+
+## git 처음 시작
+- git init : 깃 파일생성
+- git add . : 현재 경로 파일 local repository 추가
+- git commit -m "커밋 메세지" : add 한 파일 commit 하기
+- git remote add origin [깃허브주소] : local repository와 remote github repository 연동
