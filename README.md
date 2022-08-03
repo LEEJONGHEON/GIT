@@ -37,3 +37,5 @@
 - 이후 관리자가 해당 branch를 보고 pull request를 받을지 여부 판단 
 - pull request 받을경우 master branch에 변경사항 적용
 - merge : 파일 병합
+
+- git pull origin [브랜치이름] : 해당 브랜치이름의 내용 가져오기
