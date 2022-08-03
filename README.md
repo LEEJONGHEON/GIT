@@ -32,3 +32,8 @@
 - git push origin master : master branch에 파일 업로드 하기
 
 
+- git checkout -b [브랜치이름] : 해당 브랜치생성하고 branch 변경
+- git add . -> git commit -m "test" -> git push origin [branch] : branch 이름으로 git push
+- 이후 관리자가 해당 branch를 보고 pull request를 받을지 여부 판단 
+- pull request 받을경우 master branch에 변경사항 적용
+- merge : 파일 병합
