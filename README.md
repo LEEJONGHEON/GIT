@@ -39,3 +39,10 @@
 - merge : 파일 병합
 
 - git pull origin [브랜치이름] : 해당 브랜치이름의 내용 가져오기
+
+## 파일 불러오기
+- git init
+- git remote add origin [깃허브주소] : 원격 repository와 연결
+- git fetch : 원격 repository 데이터 가져오기
+- git checkout -t [원격 repository branch이름] : 해당 브랜치생성후 이동
+- git pull : 해당 브랜치 데이터 가져오기
